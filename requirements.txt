@@ -1,4 +1,0 @@
-pyTelegramBotAPI
-feedparser
-schedule
-requests
